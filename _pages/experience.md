@@ -9,31 +9,63 @@ toc_icon: "briefcase"
 ---
 
 ## Company Name | Job Title
-**Duration:** Month Year - Month Year  
-**Location:** City, State
+**Duration:** Month Year - Month Year | **Location:** City, State
 
-Brief description of your role and responsibilities (2-3 sentences).
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
 
-**Key Accomplishments:**
-- Achievement or project 1
-- Achievement or project 2
-- Achievement or project 3
+![Project Image](/assets/images/company-project.jpg)
+*Caption for image (optional)*
 
-**Technologies/Skills:** Python, JavaScript, SQL, etc.
+**Context:**  
+What was the business problem or challenge? (2-3 sentences)
+
+**My Role:**  
+What specifically did YOU do? Your responsibilities and approach.
+
+**Impact:**  
+- Quantified result 1 (e.g., "Increased efficiency by 40%")
+- Quantified result 2 (e.g., "Reduced costs by $500K annually")
+- Quantified result 3
+
+**Technical Stack:** Python, AWS, PostgreSQL, React, etc.
 
 **Work Samples:**
-- [Project Name 1](link-to-github-repo) - Brief description
-- [Project Name 2](link-to-code) - Brief description
-- [View PDF Report](/assets/files/report.pdf)
+- [GitHub Repo - Project Name](link) - Brief description
+- [View Documentation](/assets/files/project-doc.pdf) - Brief description
+- [Live Demo](link) - Brief description
 
-**Tags:** #data-analysis #machine-learning #web-development
+**Key Skills:** #data-analysis #machine-learning #cloud-infrastructure
+
+</details>
 
 ---
 
 ## Another Company | Another Role
-**Duration:** Month Year - Month Year  
-**Location:** City, State
+**Duration:** Month Year - Month Year | **Location:** City, State
 
-(Repeat the same structure for each position)
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+![Another Project](/assets/images/another-project.png)
+
+**Context:**  
+Business problem description
+
+**My Role:**  
+Your specific contributions
+
+**Impact:**  
+- Result 1
+- Result 2
+
+**Technical Stack:** List technologies
+
+**Work Samples:**
+- [Link](url) - Description
+
+**Key Skills:** #tag1 #tag2
+
+</details>
 
 ---
