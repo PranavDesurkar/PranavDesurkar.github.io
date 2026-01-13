@@ -16,6 +16,10 @@ toc_icon: "code"
 <details markdown="1">
 <summary><strong>Click to expand details</strong></summary>
 
+**Sample Materials:**
+- [Live Tableau Dashboard](https://public.tableau.com/app/profile/pranav.desurkar/viz/NBAStatisticsDashboard/MAINDASHBOARD?publish=yes) - Fully interactive public dashboard
+- Project documentation - Available upon request
+
 **Description:**  
 Designed and built an interactive NBA statistics dashboard to enable exploratory analysis of player performance metrics, team statistics, and league-wide trends. The dashboard provides dynamic filtering capabilities and multiple visualization types to support data-driven insights into basketball analytics.
 
@@ -39,10 +43,6 @@ Designed and built an interactive NBA statistics dashboard to enable exploratory
 - Team-level statistical trends and patterns
 - League-wide distribution analysis of key metrics
 
-**Sample Materials:**
-- [Live Tableau Dashboard](https://public.tableau.com/app/profile/pranav.desurkar/viz/NBAStatisticsDashboard/MAINDASHBOARD?publish=yes) - Fully interactive public dashboard
-- Project documentation - Available upon request
-
 **Skills Demonstrated:** Data cleaning, Tableau development, interactive dashboard design, data blending, statistical visualization, sports analytics
 
 </details>
@@ -54,6 +54,9 @@ Designed and built an interactive NBA statistics dashboard to enable exploratory
 
 <details markdown="1">
 <summary><strong>Click to expand details</strong></summary>
+
+**Sample Materials:**
+- [Research Poster PDF](/assets/files/SOC_poster.pdf) - Full research Poster
 
 **Description:**  
 Developed dataset augmentation techniques to address racial bias in dermatological machine learning models. Created a representative training dataset with 50% Skin of Color images across the Fitzpatrick scale (F1-F7) to improve eczema classification accuracy for underrepresented skin tones.
@@ -69,8 +72,7 @@ Developed dataset augmentation techniques to address racial bias in dermatologic
 - Significantly improved AUROC scores for SoC classification (0.92 vs 0.50)
 - Demonstrated viability of dataset augmentation for healthcare equity
 
-**Sample Materials:**
-- [Research Poster PDF](/assets/files/SOC_poster.pdf) - Full research Poster
+
 
 </details>
 
