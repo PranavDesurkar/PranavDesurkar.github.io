@@ -8,6 +8,7 @@ toc_label: "Sample Categories"
 toc_icon: "code"
 
 ---
+
 ## NBA Statistics Interactive Dashboard
 **Source:** Johns Hopkins University - Data Visualization Course  
 **Technical Stack:** Tableau, Data Cleaning, Data Blending, Interactive Visualizations
