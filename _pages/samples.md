@@ -8,7 +8,45 @@ toc_label: "Sample Categories"
 toc_icon: "code"
 
 ---
+## NBA Statistics Interactive Dashboard
+**Source:** Johns Hopkins University - Data Visualization Course  
+**Technical Stack:** Tableau, Data Cleaning, Data Blending, Interactive Visualizations
 
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Designed and built an interactive NBA statistics dashboard to enable exploratory analysis of player performance metrics, team statistics, and league-wide trends. The dashboard provides dynamic filtering capabilities and multiple visualization types to support data-driven insights into basketball analytics.
+
+**Key Features:**
+- Interactive multi-page dashboard with drill-down capabilities
+- Dynamic filtering across multiple dimensions (teams, players, seasons)
+- Comprehensive data cleaning and preparation pipeline
+- Data blending from multiple NBA statistical sources
+- Custom calculations and aggregations for advanced metrics
+- Responsive design optimized for user exploration
+
+**Technical Implementation:**
+- Data preparation: Cleaned and standardized raw NBA statistical data
+- Database normalization: Structured player, team, and game data for efficient querying
+- Data blending: Integrated multiple data sources to create unified view
+- Interactive features: Implemented parameter controls, filters, and actions
+- Visual design: Applied data visualization best practices for clarity and impact
+
+**Analytics Insights:**
+- Player performance comparisons across seasons and teams
+- Team-level statistical trends and patterns
+- League-wide distribution analysis of key metrics
+
+**Sample Materials:**
+- [Live Tableau Dashboard](https://public.tableau.com/app/profile/pranav.desurkar/viz/NBAStatisticsDashboard/MAINDASHBOARD?publish=yes) - Fully interactive public dashboard
+- Project documentation - Available upon request
+
+**Skills Demonstrated:** Data cleaning, Tableau development, interactive dashboard design, data blending, statistical visualization, sports analytics
+
+</details>
+
+---
 ## Dataset Augmentation for Skin of Color Diagnostics
 **Source:** Barger Leadership Institute Research Project  
 **Technical Stack:** Python, Machine Learning, Computer Vision, ResNet, Dataset Curation
