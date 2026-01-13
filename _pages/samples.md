@@ -32,7 +32,7 @@ Developed dataset augmentation techniques to address racial bias in dermatologic
 
 **Sample Materials:**
 - [GitHub Repository - Dataset Augmentation Code](your-github-link-here) - Python scripts for dataset curation, augmentation pipeline, and model training (private repo - access available upon request)
-- [Research Poster PDF](/assets/files/dataset-augmentation-research-poster.pdf) - Full research Poster
+- [Research Poster PDF](/assets/files/SOC_poster.pdf) - Full research Poster
 - [Technical Documentation](/assets/files/dataset-augmentation-research.pdf) - Password-protected detailed methodology (password provided upon request)
 
 **Note:** Password for technical documentation is provided to hiring managers and recruiters upon request via email.
