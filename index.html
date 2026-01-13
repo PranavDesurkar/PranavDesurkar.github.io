@@ -1,7 +1,30 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: "0.5"
+excerpt: "Your tagline here - e.g., 'Software Engineer | Data Analyst | Portfolio'"
+intro: 
+  - excerpt: 'Welcome! This portfolio showcases my professional experience, academic work, and technical projects. Use the sections below to explore my background and see examples of my work.'
+feature_row:
+  - title: "Professional Experience"
+    excerpt: "View my work history, projects, and code samples"
+    url: "/experience/"
+    btn_label: "View Experience"
+    btn_class: "btn--primary"
+  - title: "Academic Coursework"
+    excerpt: "Explore my academic projects and coursework"
+    url: "/coursework/"
+    btn_label: "View Coursework"
+    btn_class: "btn--primary"
+  - title: "About Me"
+    excerpt: "Learn more about my skills and background"
+    url: "/about/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
