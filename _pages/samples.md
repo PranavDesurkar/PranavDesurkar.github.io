@@ -6,6 +6,39 @@ author_profile: true
 toc: true
 toc_label: "Sample Categories"
 toc_icon: "code"
+
+---
+
+## Dataset Augmentation for Skin of Color Diagnostics
+**Source:** Barger Leadership Institute Research Project  
+**Technical Stack:** Python, Machine Learning, Computer Vision, ResNet, Dataset Curation
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Developed dataset augmentation techniques to address racial bias in dermatological machine learning models. Created a representative training dataset with 50% Skin of Color images across the Fitzpatrick scale (F1-F7) to improve eczema classification accuracy for underrepresented skin tones.
+
+**Key Features:**
+- Assembled representative dataset balancing Fitzpatrick skin types F1-F7
+- Implemented bias mitigation techniques through strategic data augmentation
+- Trained ResNet model achieving 85% accuracy on SoC vs 67% for standard models
+- Conducted stakeholder research with medical professionals to inform approach
+
+**Research Impact:**
+- 10% improvement over traditional models on select metrics
+- Significantly improved AUROC scores for SoC classification (0.92 vs 0.50)
+- Demonstrated viability of dataset augmentation for healthcare equity
+
+**Sample Materials:**
+- [GitHub Repository - Dataset Augmentation Code](your-github-link-here) - Python scripts for dataset curation, augmentation pipeline, and model training (private repo - access available upon request)
+- [Research Poster PDF](/assets/files/dataset-augmentation-research-poster.pdf) - Full research Poster
+- [Technical Documentation](/assets/files/dataset-augmentation-research.pdf) - Password-protected detailed methodology (password provided upon request)
+
+**Note:** Password for technical documentation is provided to hiring managers and recruiters upon request via email.
+
+</details>
+
 ---
 
 ## Project Name 1
