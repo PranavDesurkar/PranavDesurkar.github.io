@@ -1,7 +1,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Work Samples"
+    url: /samples/
   - title: "Experience"
     url: /experience/
   - title: "Coursework"
     url: /coursework/
+    
