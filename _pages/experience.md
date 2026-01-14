@@ -7,6 +7,9 @@ toc_label: "Experience"
 toc_icon: "briefcase"
 ---
 
+This page highlights my professional experience across healthcare analytics, AI research, software development, and observability platforms. Each role demonstrates my ability to rapidly adapt across diverse technical domains while delivering measurable impact. Work samples are available upon request where not restricted by confidentiality agreements.
+
+---
 ## Michigan Public Health Institute (MPHI) | AI & Data Analytics Technical Intern
 **Duration:** 01/2025 - 04/2026 | **Location:** Remote
 
