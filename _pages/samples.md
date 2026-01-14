@@ -2,7 +2,6 @@
 layout: single
 title: "Work Samples"
 permalink: /samples/
-author_profile: true
 toc: true
 toc_label: "Sample Categories"
 toc_icon: "code"
