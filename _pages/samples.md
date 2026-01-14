@@ -180,6 +180,106 @@ I specifically led congitve task analysis interviews with potential users. Coded
 
 ---
 
+## Sentiment Analysis with SVMs - Amazon Movie Reviews {#eecs445-svm}
+**Source:** University of Michigan - EECS 445: Machine Learning  
+**Technical Stack:** Python, scikit-learn, NumPy, pandas, Matplotlib, Word2Vec
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Implemented Support Vector Machine classifiers for binary sentiment analysis of Amazon movie reviews, achieving 96.6% AUROC. Explored advanced ML concepts including regularization strategies, class imbalance handling, kernel methods, and algorithmic bias detection.
+
+**Sample Materials:**
+- [Private GitHub Repository](https://github.com/PranavDesurkar/ML_Coursework_Sample) - Complete implementation with feature engineering, SVM training, bias analysis, and Detailed analysi report with visualizations. Please reach out for access to github repo.
+
+**Technical Implementation:**
+- **Feature Engineering**: Bag-of-words representation with 5,874-word dictionary, sparse feature vectors
+- **SVM Optimization**: Cross-validated hyperparameter tuning across C ∈ {10⁻³, 10⁻², 10⁻¹, 10⁰} using multiple metrics (accuracy, F1, AUROC, precision, sensitivity, specificity)
+- **Regularization Analysis**: Compared L1 vs. L2 penalties, analyzed L0-norm sparsity patterns
+- **Kernel Comparison**: Implemented linear and quadratic kernels with grid search and random search tuning
+- **Class Imbalance**: Designed weighted SVM achieving 100% sensitivity while managing specificity tradeoffs
+
+**Key Results:**
+- Linear SVM (C=0.1): 91.5% test accuracy, 96.6% AUROC, 91.6% F1-score
+- Identified 5 most positive coefficients: "love," "loves," "great," "excellent," "perfect"
+- Detected gender bias: "actor" appeared 4.9× more than "actress" in reviews
+- Word embeddings showed "talented" associated more strongly with male-gendered attributes
+
+**Advanced Analysis:**
+- Bias Detection: Quantified implicit gender bias through word frequency analysis and embedding associations
+- Model Interpretability: Analyzed coefficient weights to understand learned word-sentiment relationships
+- Challenge Component: Developed custom classifier using N-grams and TF-IDF vectorization
+
+
+</details>
+
+---
+
+## Image Classification with CNNs - Landmark Recognition {#eecs445-cnn}
+**Source:** University of Michigan - EECS 445: Machine Learning  
+**Technical Stack:** Python, PyTorch, NumPy, Matplotlib, Grad-CAM
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Designed and optimized Convolutional Neural Networks for landmark image classification (Pantheon vs. Hofburg Imperial Palace), achieving 88.07% test AUROC through systematic experimentation. Implemented transfer learning, custom data augmentation strategies, and Grad-CAM visualization for model interpretability.
+
+**Sample Materials:**
+- [Private GitHub Repository](https://github.com/PranavDesurkar/ML_Coursework_Sample) - Complete implementation with feature engineering, SVM training, bias analysis, and Detailed analysi report with visualizations. Please reach out for access to github repo.
+
+
+**Technical Architecture:**
+- **Base CNN**: 3 convolutional layers (filter progression: 16→64→8), 39,754 parameters
+- **Custom Preprocessing**: Channel-wise normalization preventing data leakage
+- **Training Strategy**: Early stopping (patience=10), Adam optimizer, cross-entropy loss
+
+**Key Implementations:**
+
+**1. Transfer Learning Pipeline**
+- Pre-trained 8-class source model achieving 96% validation accuracy
+- Systematically evaluated layer freezing strategies across all combinations
+- Best configuration: freeze first 2 conv layers (88.62% test AUROC, +19% over baseline)
+- Generated confusion matrices identifying Rialto Bridge as most distinctive landmark
+
+**2. Data Augmentation**
+- Implemented custom "Grotate" method combining rotation + grayscale conversion
+- Reduced train-val gap from 2.38% to 2.31% while improving test AUROC 15.65%
+- Tested augmentation combinations: rotation-only, grayscale-only, combined
+- Analyzed impact of keeping vs. discarding original images
+
+**3. Model Interpretability (Grad-CAM)**
+- Calculated gradient-weighted activations: L = ReLU(Σ αₖAₖ)
+- Visualized decision-making process for each class
+- Discovered model focused on color patterns (blue/green hues) rather than architectural features
+- Identified potential overfitting to irrelevant features (clothing colors, sky)
+
+**4. Systematic Optimization**
+- **Batch Size**: Tested {4, 8, 16, 32, 64, 128}, optimal = 32
+- **Weight Decay**: Tested {0.001, 0.01, 0.1}, optimal = 0.01  
+- **Architecture Depth**: Compared 8 vs. 64 final conv filters, analyzed parameter-performance tradeoff
+- **Early Stopping**: Patience 5 vs. 10, selected 10 for validation stability
+
+**Optimization Results:**
+
+| Method | Test AUROC | Improvement |
+|--------|-----------|-------------|
+| Baseline | 69.20% | - |
+| Transfer Learning | 88.62% | +19.42% |
+| Data Augmentation | 84.85% | +15.65% |
+| **Combined Optimal** | **88.07%** | **+18.87%** |
+
+**Key Findings:**
+- Transfer learning most effective with partial freezing (2 layers) vs. full freezing or fine-tuning
+- Custom Grotate augmentation outperformed single-method augmentation
+- Grad-CAM revealed model vulnerability to color-based shortcuts
+- Weight decay (0.01) reduced overfitting without sacrificing training performance
+  
+</details>
+
+---
+
 ## Open Source Contribution - Case-Sensitive URL Bug Fix
 **Source:** University of Michigan - EECS 481: Software Engineering (Team Project)  
 **Technical Stack:** C++, Qt Framework, CMake, GitHub Actions CI/CD  
