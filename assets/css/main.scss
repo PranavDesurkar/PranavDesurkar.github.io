@@ -1,0 +1,29 @@
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom styles for landing page headshot */
+.feature__item .archive__item-teaser img {
+  max-width: 200px !important;  /* Adjust size (default is usually 400px+) */
+  max-height: 200px !important;
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 50% !important;  /* Makes it circular */
+  object-fit: cover !important;   /* Ensures proper cropping */
+  display: block !important;
+  margin: 0 auto 1em !important;  /* Centers the image */
+}
+
+/* Alternative: Target only intro section images */
+#intro .archive__item-teaser img {
+  max-width: 250px !important;
+  max-height: 250px !important;
+  width: 250px !important;
+  height: 250px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 0 auto 1em !important;
+}
