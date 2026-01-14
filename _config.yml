@@ -62,7 +62,7 @@ atom_feed:
 
 author:
   name   : "Pranav Desurkar"
-  avatar : "/assets/images/Desur_Headshot.jpeg"
+  avatar : "/assets/images/headshotss.jpg"
   bio    : " "
   links:
     - label: "GitHub"
