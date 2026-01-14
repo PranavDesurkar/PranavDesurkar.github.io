@@ -239,7 +239,7 @@ An introductory course in using Python for analytical purposes with a focus on d
 - Data analysis assignments
 
 **Work Samples:**
-- [Available upon request]
+- Available upon request at this [private repo](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples/tree/main), please contact for accesss.
 
 **Skills Gained:** Python programming, data analysis, time series forecasting, data visualization
 
@@ -271,7 +271,7 @@ Introduces analytical frameworks for data-driven decision making in organization
 - Business problem modeling and optimization
 
 **Work Samples:**
-- [Available upon request]
+- Available upon request at this [private repo](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples/tree/main), please contact for accesss.
 
 **Skills Gained:** Optimization modeling, decision analysis, risk management, simulation
 
@@ -303,7 +303,7 @@ A project-based course preparing students to make informed decisions using descr
 - Interactive visualization and dashboard design
 
 **Work Samples:**
-- [Available upon request]
+- 
 
 **Skills Gained:** Tableau, data visualization, dashboard design, visual storytelling
 
