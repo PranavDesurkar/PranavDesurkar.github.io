@@ -2,7 +2,6 @@
 layout: single
 title: "Academic Coursework"
 permalink: /coursework/
-author_profile: true
 toc: true
 toc_label: "Courses"
 toc_icon: "graduation-cap"
