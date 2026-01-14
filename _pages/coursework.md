@@ -35,7 +35,7 @@ A holistic course covering modern web systems and technologies, both front-end a
 - Google Clone - Search engine with text and link analysis over large web corpus
 
 **Work Samples:**
-- [Project repositories available upon request]
+- Not currently available to share.
 
 **Skills Gained:** Full-stack web development, distributed systems, cloud deployment, REST APIs, parallel programming
 
@@ -67,7 +67,7 @@ A programming-focused introduction to Machine Learning, providing theoretical un
 - Project 2 - [Description not provided]
 
 **Work Samples:**
-- [Available upon request]
+- Not currently available to share.
 
 **Skills Gained:** Machine learning algorithms, data analysis, model development
 
@@ -106,7 +106,7 @@ An upper-level technical elective exploring the fundamentals of modern software 
 Successfully contributed to an open source project by identifying an issue, following the project's development workflow, and submitting a patch or feature implementation for potential merge into the main codebase.
 
 **Work Samples:**
-- [Available upon request]
+- Available at [this repo](https://github.com/PranavDesurkar/public_contribution_work_sample). Please contact for access.
 
 **Skills Gained:** Software engineering principles, quality assurance, testing strategies, code review, open source contribution, risk management, software design patterns, team collaboration, version control
 
@@ -140,7 +140,7 @@ Teaches how computers execute programs by bridging high-level code (C/C++) to ha
 - Assembly language programming
 
 **Work Samples:**
-- [Available upon request]
+- Not currently available to share.
 
 **Skills Gained:** Low-level programming, computer architecture, assembly language, hardware design
 
@@ -170,12 +170,6 @@ An introduction to Computer Science theory with applications. Design and analysi
 
 **Technical Stack:** Theoretical CS, mathematical proofs
 
-**Projects:**
-- Homework assignments focusing on algorithmic paradigms and computational theory
-
-**Work Samples:**
-- [Available upon request]
-
 **Skills Gained:** Algorithm design, complexity analysis, theoretical computer science, cryptographic algorithms
 
 </details>
@@ -202,11 +196,11 @@ A special topics course studying cognitive tutors and the educational impact of 
 **Technical Stack:** Node.js, Full-stack development, AI/ML
 
 **Projects:**
-- Chatbot-style Tutor - Created using Node.js that utilizes cognitive techniques to encourage active learning for school-aged children
 - AI-Powered Cognitive Tutor - Full-stack development of an AI-powered cognitive tutor that assists students in solving dynamic programming LeetCode problems
+- Cogntive Mental Math Tutor
 
 **Work Samples:**
-- [Project repositories available upon request]
+- Available at [this repo](https://github.com/PranavDesurkar/aiineducationsamples). Please contact for access.
 
 **Skills Gained:** Educational AI, cognitive science applications, full-stack development, chatbot development
 
