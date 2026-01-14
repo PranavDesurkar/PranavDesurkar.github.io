@@ -53,9 +53,12 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+atom_feed:
+  hide: true
 
 author:
   name   : "Pranav Desurkar"
