@@ -63,7 +63,7 @@ atom_feed:
 author:
   name   : "Pranav Desurkar"
   avatar : "/assets/images/Desur_Headshot.jpeg"
-  bio    : "Data Scientist | ML Engineer | Software Developer"
+  bio    : " "
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
