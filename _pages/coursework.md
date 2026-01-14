@@ -75,6 +75,45 @@ A programming-focused introduction to Machine Learning, providing theoretical un
 
 ---
 
+## Software Engineering | EECS 481
+**Institution:** University of Michigan  
+**Level:** Undergraduate  
+**Status:** Completed
+
+<details markdown="1">
+<summary>Click to expand course details</summary>
+
+**Description:**  
+An upper-level technical elective exploring the fundamentals of modern software engineering and analysis beyond just coding. The course examines how successful software projects require collaboration, risk management, quality assurance, and determining when products are "good enough" to ship. Focuses on individual mastery of core software engineering concepts including measurement, testing, defect management, design principles, and productivity at scale.
+
+**Key Topics:**
+- Measurement and risk assessment in software projects
+- Quality assurance and comprehensive testing strategies
+- Software defect identification and resolution
+- Software design principles and patterns
+- Productivity techniques for large-scale development
+- Open source contribution workflow
+- Client requirements and stakeholder management
+
+**Technical Stack:** Various programming languages, version control (Git), testing frameworks, open source development tools
+
+**Projects:**
+- Open source contribution project - Identified issues in real-world open source projects, understood local development processes, and fixed bugs or added features
+- Multiple individual assignments focusing on testing, design, and quality assurance
+- Code review and analysis exercises
+
+**Culminating Assignment:**
+Successfully contributed to an open source project by identifying an issue, following the project's development workflow, and submitting a patch or feature implementation for potential merge into the main codebase.
+
+**Work Samples:**
+- [Available upon request]
+
+**Skills Gained:** Software engineering principles, quality assurance, testing strategies, code review, open source contribution, risk management, software design patterns, team collaboration, version control
+
+</details>
+
+---
+
 ## Introduction to Computer Organization | EECS 370
 **Institution:** University of Michigan  
 **Level:** Undergraduate  
