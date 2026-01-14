@@ -32,6 +32,6 @@ University Name, Graduation Year
 
 ## Contact
 
-Feel free to reach out via [LinkedIn](your-link), [GitHub](your-link), or [email](mailto:your@email.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pranav-desurkar-928541230/) or [email](pdesurka@umich.edu).
 
 ---
