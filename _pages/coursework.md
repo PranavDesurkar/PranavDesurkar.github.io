@@ -333,8 +333,7 @@ Prepares students to gather, describe, and analyze data using advanced statistic
 **Technical Stack:** Statistical software, Excel
 
 **Projects:**
-- Statistical analysis assignments
-- Economic and financial decision modeling
+- Statistical analysis project work sample available at this private repo.
 
 **Work Samples:**
 - [Available upon request]
@@ -366,13 +365,6 @@ Provides fundamental finance principles and their applications in corporate deci
 
 **Technical Stack:** Financial modeling tools, Excel
 
-**Projects:**
-- Capital budgeting case studies
-- Portfolio allocation analysis
-
-**Work Samples:**
-- [Available upon request]
-
 **Skills Gained:** Financial analysis, investment decisions, risk management, portfolio theory
 
 </details>
@@ -400,13 +392,6 @@ Statistical techniques for business, economics, and finance. Covers fundamental 
 
 **Technical Stack:** Excel, Data Analysis ToolPak
 
-**Projects:**
-- Case study analyses
-- Statistical modeling assignments
-
-**Work Samples:**
-- [Available upon request]
-
 **Skills Gained:** Statistical inference, hypothesis testing, regression analysis, Excel analytics
 
 </details>
@@ -416,8 +401,7 @@ Statistical techniques for business, economics, and finance. Covers fundamental 
 ## Customer Analytics
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
-
+**Status:** Not Completed
 <details markdown="1">
 <summary>Click to expand course details</summary>
 
@@ -437,7 +421,7 @@ Introduces modern customer analytics practices, illustrating how marketing pract
 - Churn analysis group assignments
 
 **Work Samples:**
-- [Available upon request]
+- Not yet available
 
 **Skills Gained:** Customer analytics, predictive modeling, R programming, marketing analytics
 
@@ -448,8 +432,7 @@ Introduces modern customer analytics practices, illustrating how marketing pract
 ## Practical Machine Learning
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
-
+**Status:** Not Completed Yet
 <details markdown="1">
 <summary>Click to expand course details</summary>
 
@@ -469,8 +452,7 @@ Provides hackathon- and project-based learning for developing, assessing, and ex
 - Hackathon-style projects
 
 **Work Samples:**
-- [Available upon request]
-
+- Not yet available
 **Skills Gained:** Supervised learning, model evaluation, ML deployment, Python ML development
 
 </details>
@@ -480,7 +462,7 @@ Provides hackathon- and project-based learning for developing, assessing, and ex
 ## Generative AI
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
+**Status:** Not Started
 
 <details markdown="1">
 <summary>Click to expand course details</summary>
@@ -502,7 +484,7 @@ Comprehensive immersion in generative AI, exploring both theoretical underpinnin
 - Business application projects
 
 **Work Samples:**
-- [Available upon request]
+- Not yet available
 
 **Skills Gained:** Generative AI, transformers, GANs, deep learning frameworks, AI strategy
 
@@ -513,7 +495,7 @@ Comprehensive immersion in generative AI, exploring both theoretical underpinnin
 ## Large Scale Computing on the Cloud
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
+**Status:** Not Started
 
 <details markdown="1">
 <summary>Click to expand course details</summary>
@@ -538,7 +520,7 @@ Prepares students with fundamental concepts of distributed data systems and mass
 - Large-scale data mining projects
 
 **Work Samples:**
-- [Available upon request]
+- Not yet available
 
 **Skills Gained:** Distributed computing, big data processing, AWS, Spark, MapReduce
 
@@ -549,7 +531,7 @@ Prepares students with fundamental concepts of distributed data systems and mass
 ## Advanced Business Analytics
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
+**Status:** Not yet available
 
 <details markdown="1">
 <summary>Click to expand course details</summary>
@@ -571,7 +553,7 @@ Trains decision makers to function in the face of multi-dimensional uncertainty 
 - Decision-making under uncertainty
 
 **Work Samples:**
-- [Available upon request]
+- Not yet available
 
 **Skills Gained:** Advanced optimization, dynamic programming, multi-criteria decision making
 
@@ -582,7 +564,7 @@ Trains decision makers to function in the face of multi-dimensional uncertainty 
 ## Simulation
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
+**Status:** Not Started
 
 <details markdown="1">
 <summary>Click to expand course details</summary>
@@ -604,7 +586,7 @@ Foundation for applying Simulation in managerial decision making across all orga
 - Simulation-optimization projects
 
 **Work Samples:**
-- [Available upon request]
+- Not yet available
 
 **Skills Gained:** Monte Carlo simulation, risk modeling, simulation-optimization, @Risk software
 
@@ -638,7 +620,7 @@ Students assume the role of analytics consultants, engaging with real-world busi
 - Consulting deliverables and presentations
 
 **Work Samples:**
-- [Client project - available upon request]
+- Not yet available
 
 **Skills Gained:** Analytics consulting, project management, stakeholder communication, business problem solving
 
