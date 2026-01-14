@@ -12,6 +12,61 @@ This page contains selected projects and deliverables that demonstrate my techni
 
 ---
 
+## Fuel Inventory Management & Optimization Analysis
+**Source:** Johns Hopkins University - Python for Data Analytics (Team Project)  
+**Technical Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statistical Analysis
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Collaborated with a team to analyze fuel inventory behavior and refill patterns across multiple gas station locations over a 2.5-year period (January 2017 - August 2019). Performed comprehensive data cleaning, merging five disparate datasets, and conducted statistical analysis to identify operational inefficiencies and cost-saving opportunities. Incorporated inflation-adjusted analysis to account for purchasing power erosion over time.
+
+**Sample Materials:**
+Private GitHub repository(https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples) that contains the following files :
+-   [Project Report](annotated-Project_20Report.pdf) - Full analysis with visualizations and recommendations
+-   [Jupyter Notebook](finalprojects__2_.ipynb) - Complete Python analysis code
+
+**Key Features:**
+- Multi-dataset integration and standardization (5 CSV files merged)
+- Time-series analysis of fuel levels, utilization rates, and refill patterns
+- Discount efficiency calculations and missed savings quantification
+- Inflation-adjusted financial analysis using Canadian CPI data
+- Correlation analysis exploring variability vs. ordering behavior
+- Station-by-station operational efficiency comparison
+
+**Business Impact:**
+- Identified $157,549.75 in unrealized savings (78.43% of potential discounts)
+- Discovered optimal ordering patterns: Tuesday deliveries showed highest average order sizes
+- Quantified inventory risk levels: 3 stations operating below 15% utilization (high outage risk)
+- Demonstrated that reactive ordering (high variability) achieved 5x better discount efficiency than proactive ordering
+- Provided actionable recommendations for consolidating purchases and optimizing delivery schedules
+
+**Technical Implementation:**
+- **Data Cleaning**: Merged and standardized 5 datasets, handled missing values, converted data types, created datetime features
+- **Feature Engineering**: Calculated utilization rates (fuel level/tank capacity), discount tiers, missed savings, inflation adjustments
+- **Statistical Analysis**: Correlation analysis (Pearson r), variability metrics (σ/μ), time-based aggregations
+- **Visualization**: Multi-panel charts comparing station performance across metrics (utilization, savings, order patterns)
+- **Economic Modeling**: Incorporated monthly inflation rates to adjust financial metrics for real purchasing power
+
+**Analytical Findings:**
+- Most stations operated at 20-35% tank utilization (lower than optimal)
+- Strong positive correlation (r=0.727) between order variability and frequency
+- Strong positive correlation (r=0.620) between variability and discount efficiency (contradicted initial hypothesis)
+- Stations with high variability achieved 17.19% discount efficiency vs. 3.57% for low variability
+
+**My Contributions:**
+- Led data cleaning and standardization across five datasets
+- Developed inflation adjustment methodology and integrated Canadian CPI data
+- Conducted variability analysis exploring reactive vs. proactive ordering patterns
+- Co-authored findings section analyzing discount efficiency and operational recommendations
+
+**Skills Demonstrated:** Python data analysis, Pandas data manipulation, statistical analysis, time-series analysis, data visualization, business analytics, inflation adjustment, team collaboration, technical writing
+
+</details>
+
+---
+
 ## NBA Statistics Interactive Dashboard
 **Source:** Johns Hopkins University - Data Visualization Course  
 **Technical Stack:** Tableau, Data Cleaning, Data Blending, Interactive Visualizations
