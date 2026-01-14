@@ -336,7 +336,7 @@ Prepares students to gather, describe, and analyze data using advanced statistic
 - Statistical analysis project work sample available at this private repo.
 
 **Work Samples:**
-- Available upon request at this [privare repo], please contact for accesss.(https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples/tree/main)
+- Available upon request at this [private repo](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples/tree/main), please contact for accesss.
 
 **Skills Gained:** Statistical analysis, hypothesis testing, regression, forecasting, clustering
 
