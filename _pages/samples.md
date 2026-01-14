@@ -8,6 +8,10 @@ toc_icon: "code"
 
 ---
 
+This page contains selected projects and deliverables that demonstrate my technical capabilities across machine learning, full-stack development, data visualization, and educational AI. Many repositories are private to protect proprietary work and sensitive data—access can be provided to hiring managers and recruiters upon request.
+
+---
+
 ## NBA Statistics Interactive Dashboard
 **Source:** Johns Hopkins University - Data Visualization Course  
 **Technical Stack:** Tableau, Data Cleaning, Data Blending, Interactive Visualizations
