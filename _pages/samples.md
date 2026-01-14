@@ -130,8 +130,6 @@ Developed dataset augmentation techniques to address racial bias in dermatologic
 - Significantly improved AUROC scores for SoC classification (0.92 vs 0.50)
 - Demonstrated viability of dataset augmentation for healthcare equity
 
-
-
 </details>
 
 ---
@@ -181,6 +179,45 @@ I specifically led congitve task analysis interviews with potential users. Coded
 </details>
 
 ---
+
+## Mumble Open Source Contribution - Case-Sensitive URL Bug Fix
+**Source:** University of Michigan - EECS 481: Software Engineering (Team Project)  
+**Technical Stack:** C++, Qt Framework, CMake, GitHub Actions CI/CD  
+**Team Size:** 2 (Partner: Sunidhi Majalikar)
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Fixed a 10-year-old bug in Mumble, an open-source voice chat platform, where channel URLs incorrectly performed case-insensitive matching. Channels with similar names but different capitalization (e.g., "EECS481" vs "eecs481") were treated as identical when accessed via URLs, causing incorrect navigation.
+
+**My Contribution:**  
+Complete ownership of bug fix including fault localization, implementation, unit testing, and pull request management. My partner handled a separate feature addition task.
+
+**Technical Solution:**
+- Analyzed 3000+ line `MainWindow.cpp` file to locate bug in `findDesiredChannel()` function
+- Removed `.toLower()` operations causing case-insensitive comparison (2-3 line fix)
+- Designed comprehensive unit test suite (`TestChannelURLCase.cpp`) with parameterized tests and mock objects
+- Implemented fallback case-insensitive search based on maintainer feedback
+- Successfully passed all CI/CD pipeline checks (build verification, style checks, unit tests)
+
+**Impact:**  
+Resolved decade-old navigation bug affecting global user base. Contribution successfully merged into production codebase.
+
+**Key Learning:**  
+Quality assurance required 3x more time than implementation (15 hours testing vs. 5 hours coding), demonstrating importance of comprehensive testing in production systems.
+
+**Sample Materials:**
+- [GitHub Repository](https://github.com/PranavDesurkar/481-Open-Source-Project) - Complete code including bug fix and unit tests
+- [Merged Pull Request](link-to-actual-PR) - Code review history and CI/CD verification
+- [Project Report](/assets/files/481_HW_6B.pdf) - Detailed documentation of contribution process
+
+**Skills Demonstrated:** C++ development, unit testing, open source workflows, Git/GitHub, code review, CI/CD pipelines, fault localization, legacy code maintenance
+
+</details>
+
+---
+
 ## Rule-Based Cognitive Tutor - Mental Math Problem Solver
 **Source:** University of Michigan - EECS 498: AI in Education  
 **Technical Stack:** JavaScript, Nools, CTAT (Cognitive Tutor Authoring Tools)
