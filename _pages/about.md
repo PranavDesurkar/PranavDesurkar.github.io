@@ -11,24 +11,19 @@ Write a brief introduction about yourself - your background, interests, what dri
 
 ## Skills & Expertise
 
-**Programming Languages:** Python, JavaScript, R, SQL, etc.
+**Programming Languages:** Python, JavaScript, R, SQL, Python, C++, C#, C, PyTorch, Pandas, Windows Forms, MATLAB, Postgre SQL, JinJa2, HTML, PyQt,  Django, React, Flask, JavaScript, Nools, REST API, CSS
 
-**Tools & Technologies:** Git, Docker, AWS, TensorFlow, etc.
+**Tools & Technologies:** Git, Docker, AWS, TensorFlow, .
 
-**Areas of Expertise:** Data Analysis, Machine Learning, Web Development, etc.
+**Areas of Expertise:** Data Analysis, Machine Learning, ....
 
 ## Education
 
-**Degree Name** - Major  
-University Name, Graduation Year
+**Bachelor's of Engineering ** - Computer Science  
+University of Michigan, May 2025
 
-**Degree Name** - Major  
-University Name, Graduation Year
-
-## Certifications
-
-- Certification Name, Issuing Organization, Year
-- Certification Name, Issuing Organization, Year
+**Masters of Applied Sciences** - Business Analytics and Artificial Intelligence  
+Johns Hopkins University Carey School of Business, August 2026
 
 ## Contact
 
