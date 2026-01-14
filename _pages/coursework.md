@@ -1,10 +1,14 @@
 ---
 layout: single
-title: "Academic Coursework"
+title: "Relevant Academic Coursework"
 permalink: /coursework/
 toc: true
 toc_label: "Courses"
 toc_icon: "graduation-cap"
+---
+
+# This page showcases courses and projects from my undergraduate studies at the University of Michigan and graduate work at Johns Hopkins University. Some courses are currently in progress and will be updated upon completion. Work samples are included where permitted by course policies and confidentiality requirements.
+
 ---
 
 ## Web Systems | EECS 485
