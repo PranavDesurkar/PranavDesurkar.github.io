@@ -13,7 +13,8 @@ Write a brief introduction about yourself - your background, interests, what dri
 
 **Programming Languages:** Python, JavaScript, R, SQL, Python, C++, C#, C, PyTorch, Pandas, Windows Forms, MATLAB, Postgre SQL, JinJa2, HTML, PyQt,  Django, React, Flask, JavaScript, Nools, REST API, CSS
 
-**Tools & Technologies:** Git, Docker, AWS, TensorFlow, .
+**Tools & Technologies:** Git, TensorFlow, Tableau, Power BI, GitHub, Figma, Roboflow, Microsoft Suite
+
 
 **Areas of Expertise:** Data Analysis, Machine Learning, ....
 
