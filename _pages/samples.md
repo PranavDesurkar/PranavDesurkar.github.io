@@ -180,7 +180,7 @@ I specifically led congitve task analysis interviews with potential users. Coded
 
 ---
 
-## Mumble Open Source Contribution - Case-Sensitive URL Bug Fix
+## Open Source Contribution - Case-Sensitive URL Bug Fix
 **Source:** University of Michigan - EECS 481: Software Engineering (Team Project)  
 **Technical Stack:** C++, Qt Framework, CMake, GitHub Actions CI/CD  
 **Team Size:** 2 (Partner: Sunidhi Majalikar)
