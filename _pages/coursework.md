@@ -576,7 +576,7 @@ Foundation for applying Simulation in managerial decision making across all orga
 ## Analytics Consulting Project
 **Institution:** Johns Hopkins University  
 **Level:** Graduate  
-**Status:** Completed
+**Status:** Not Started
 
 <details markdown="1">
 <summary>Click to expand course details</summary>
