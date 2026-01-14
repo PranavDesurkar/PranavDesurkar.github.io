@@ -2,7 +2,6 @@
 layout: single
 title: "Professional Experience"
 permalink: /experience/
-author_profile: true
 toc: true
 toc_label: "Experience"
 toc_icon: "briefcase"
