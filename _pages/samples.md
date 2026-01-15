@@ -106,6 +106,53 @@ Designed and built an interactive NBA statistics dashboard to enable exploratory
 </details>
 
 ---
+
+## Cornell EMI Case Competition: VaccineCo Africa Vaccine Strategy
+**Source:** Cornell Emerging Markets Institute - 2025 Corning Case Competition  
+**Technical Stack:** Strategic Planning, Financial Modeling, Market Analysis, Healthcare Policy
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Developed dual-track growth strategy for South African vaccine manufacturer to achieve Africa's Vision 2040 (60% local production). Addressed critical market gap: Africa consumes 25% of global vaccines but imports 99%.
+
+**Sample Materials:**
+- [Strategic Presentation](files/Cornell_Case_Presentation_1.pdf) - Complete strategy deck with financials
+- [Case Study Brief](files/2025_Cornell_EMI_Corning_Case_1.pdf) - Competition materials
+
+**Strategic Solution - "Project Helix":**
+- **Track 1:** Malaria vaccine tech transfer via Oxford/Serum Institute partnerships
+- **Track 2:** WHO Prequalification + CDMO capabilities for stable revenue
+- 18-month phased implementation with milestone-based decision gates
+
+**My Contributions:**
+- Co-developed high-level dual-track framework balancing short-term bankability with long-term autonomy
+- Researched implementation feasibility: financing mechanisms (AVMA, IFC blended loans), technology transfer pathways, and regulatory requirements
+- Designed 18-month phased execution plan with cross-initiative coordination and milestone-based decision protocols
+- Delivered final presentation to competition judges
+
+**Business Impact:**
+- Revenue projection: $15M (2026) → $96M (2028)
+- Capital efficiency: $14-22M investment, 70%+ asset reusability
+- Market opportunity: $1.3B → $4.7B by 2030
+- Capacity gap addressed: 61M vs. 1.4B doses needed annually
+
+**Key Analysis:**
+- 4-region African market dynamics (West, East, North, Southern)
+- Vaccine value chain pain points (R&D through last-mile distribution)
+- Funding ecosystem mapping (AVMA $1.2B, IFC, Gates Foundation, AMCs)
+- Regulatory pathways and WHO prequalification timeline
+
+**Financing Strategy:**
+- DFI long-term debt for infrastructure de-risking
+- Non-dilutive grants (Gates, CEPI) for tech transfer
+- Advance Market Commitments for demand certainty
+- Strategic VC for commercial scale-up phase
+
+</details>
+
+---
 ## Dataset Augmentation for Skin of Color Diagnostics
 **Source:** Barger Leadership Institute Research Project  
 **Technical Stack:** Python, Machine Learning, Computer Vision, ResNet, Dataset Curation
