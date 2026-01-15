@@ -118,8 +118,8 @@ Designed and built an interactive NBA statistics dashboard to enable exploratory
 Developed dual-track growth strategy for South African vaccine manufacturer to achieve Africa's Vision 2040 (60% local production). Addressed critical market gap: Africa consumes 25% of global vaccines but imports 99%.
 
 **Sample Materials:**
-- [Strategic Presentation](assets/files/Cornell_Case_Presentation_1.pdf) - Complete strategy deck with financials
-- [Case Study Brief](assets/files/2025_Cornell_EMI_Corning_Case_1.pdf) - Competition materials
+- [Strategic Presentation](/assets/files/Cornell_Case_Presentation_1.pdf) - Complete strategy deck with financials
+- [Case Study Brief](/assets/files/2025_Cornell_EMI_Corning_Case_1.pdf) - Competition materials
 
 **Strategic Solution - "Project Helix":**
 - **Track 1:** Malaria vaccine tech transfer via Oxford/Serum Institute partnerships
