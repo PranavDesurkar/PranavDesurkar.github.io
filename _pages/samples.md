@@ -190,6 +190,8 @@ Applied statistical learning methods to 9 years of Washington D.C. weather data 
 - Decision tree comparison: original variables (96.89% accuracy) vs. cluster features (86.35% accuracy)
 - Finding: clustering captured patterns but didn't improve prediction when raw variables
 
+</details>
+
 ---
 
 ## Dataset Augmentation for Skin of Color Diagnostics
