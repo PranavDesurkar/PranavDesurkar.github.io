@@ -67,6 +67,74 @@ Collaborated with a team to analyze fuel inventory behavior and refill patterns 
 
 ---
 
+## Revenue Management Analyst Staffing Optimization
+**Source:** Johns Hopkins University - Business Analytics (Team Project)  
+**Technical Stack:** Excel Solver, Integer Linear Programming, Optimization Modeling, Operations Research
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Developed an Integer Linear Programming (ILP) model to optimize Customer Solution Analyst staffing allocation at our client's Global Marketing and Pricing Department. Conducted stakeholder interview to extract decision variables and constraints, then built Excel-based optimization tool to minimize unrated package volume while meeting budget and service-level targets.
+
+**Sample Materials:**
+- [Private GitHub Repository](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples) - Request Access for this private repo to access relevant files in the folder Python_For_Data_Analytics_Final_Project. 
+- Files
+  - Optimization Model - annotated-Fedex_Group_20Project_20Excel_20v8_xlsx.pdf - Excel Solver implementation with decision     variables and constraints
+  - Project Report(annotated-FedEx_Project_Report_20v2.pdf) - Full analysis with interview summary and model formulation
+
+**Business Context:**
+- **Challenge:** Our Client is a Logistic Company that processes packages through rating system that assigns final billable prices. Unrated packages (≤0.01% target) delay invoicing and create revenue risk.
+- **Root Causes:** Missing scans, incorrect origin/destination data, customer attribute changes, system issues, fraud flags
+- **Current Process:** Three specialist analyst types manually resolve issues within 2-business-day service level
+
+**Model Formulation:**
+
+**Decision Variables:**
+- xC: Customer-Specific Analysts
+- xCR: Credit-Specific Analysts  
+- xO: Operations-Specific Analysts
+
+**Objective Function:**
+Maximize total packages resolved: Z = ResolvedC + ResolvedCR + ResolvedO
+
+**Key Constraints:**
+- Budget: $1.5M total annual staffing budget
+- Minimum staffing: ≥1 analyst per specialty (operational coverage)
+- Package volume: Resolved ≤ Demand by type
+- Minimum resolution shares: 15-20% budget allocation per analyst type
+
+**Business Impact:**
+- **Optimal allocation:** 7 Customer, 8 Credit, 9 Operations analysts (24 total)
+- **Cost efficiency:** $1.486M spend (99% budget utilization), $14,000 remaining for contingency
+- **Performance:** 350,000 packages resolved annually (93.58% resolution rate)
+- **Scalable framework:** Model easily updated with new volume data, resolution times, or budget scenarios
+
+**Technical Implementation:**
+- **Parameter estimation:** Researched analyst salaries via Salary.com, Glassdoor, Indeed ($56K-$70K range)
+- **Capacity calculations:** Annual resolution = (analysts) × (work hours/day × days/year) / (hours per package)
+- **Constraint design:** Balanced hard constraints (budget) with soft constraints (minimum resolution shares)
+- **Solver configuration:** Excel Solver with Simplex LP engine, integer constraints, sensitivity report generation
+
+**Model Features:**
+- Prevents extreme solutions (e.g., hiring only one analyst type) through minimum resolution constraints
+- Respects operational reality: resolved packages cannot exceed demand
+- Transparent decision support: allows managers to evaluate "what-if" scenarios by adjusting budget or package volumes
+
+**My Contributions:**
+- [NOTE: Customize this section based on your actual role - examples below]
+- Conducted stakeholder interview with Revenue Management to extract decision variables and constraints
+- Formulated mathematical model translating business objectives into ILP framework
+- Researched market salary data and estimated resolution time parameters
+- Built and validated Excel Solver implementation with sensitivity analysis
+- Co-authored technical report explaining model logic and business recommendations
+
+**Skills Demonstrated:** Integer linear programming, constrained optimization, Excel Solver, operations research, stakeholder interviewing, parameter estimation, sensitivity analysis, business modeling, technical writing
+
+</details>
+
+---
+
 ## NBA Statistics Interactive Dashboard
 **Source:** Johns Hopkins University - Data Visualization Course  
 **Technical Stack:** Tableau, Data Cleaning, Data Blending, Interactive Visualizations
