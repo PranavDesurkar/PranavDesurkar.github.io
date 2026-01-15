@@ -176,7 +176,7 @@ Designed and built an interactive NBA statistics dashboard to enable exploratory
 ---
 
 ## Cornell EMI Case Competition: VaccineCo Africa Vaccine Strategy
-**Source:** Cornell Emerging Markets Institute - 2025 Corning Case Competition  
+**Source:** Cornell Emerging Markets Institute - 2025 Cornell Case Competition  
 **Technical Stack:** Strategic Planning, Financial Modeling, Market Analysis, Healthcare Policy
 
 <details markdown="1">
