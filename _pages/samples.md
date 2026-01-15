@@ -22,10 +22,10 @@ This page contains selected projects and deliverables that demonstrate my techni
 **Description:**  
 Collaborated with a team to analyze fuel inventory behavior and refill patterns across multiple gas station locations over a 2.5-year period (January 2017 - August 2019). Performed comprehensive data cleaning, merging five disparate datasets, and conducted statistical analysis to identify operational inefficiencies and cost-saving opportunities. Incorporated inflation-adjusted analysis to account for purchasing power erosion over time.
 
+
 **Sample Materials:**
-Private GitHub repository(https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples) that contains the following files :
--   [Project Report](annotated-Project_20Report.pdf) - Full analysis with visualizations and recommendations
--   [Jupyter Notebook](finalprojects__2_.ipynb) - Complete Python analysis code
+- [Private GitHub Repository](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples) - Request Access for this private repo to access relevant files in the folder Python_For_Data_Analytics_Final_Project. The file "finalprojects (2).ipynb" contains all of the python code used for analysis and the resulting report is under the file "annotated-Project%20Report.pdf".
+
 
 **Key Features:**
 - Multi-dataset integration and standardization (5 CSV files merged)
@@ -153,6 +153,45 @@ Developed dual-track growth strategy for South African vaccine manufacturer to a
 </details>
 
 ---
+
+## Washington D.C. Weather Prediction Using Regression & Machine Learning
+**Source:** Johns Hopkins University - Statistical Methods in Data Science (Team Project)  
+**Technical Stack:** R, Linear Regression, Logistic Regression, K-means Clustering, Decision Trees
+
+<details markdown="1">
+<summary><strong>Click to expand details</strong></summary>
+
+**Description:**  
+Applied statistical learning methods to 9 years of Washington D.C. weather data (2015-2024, 3,319 observations) to predict snowfall amounts, precipitation events, and daily weather classifications. Explored relationships between atmospheric variables and weather outcomes using regression, classification, and unsupervised learning techniques.
+
+**Sample Materials:**
+- The sample materials can be found in the [Private GitHub Repository](https://github.com/PranavDesurkar/Data_Analytics_Projects_Samples) - Request Access for this private repo to access relevant files in the folder Python_For_Data_Analytics_Final_Project.
+- Project Report: annotated-Group%2023%20DC%20Weather.pdf - Full analysis with visualizations and findings
+- R Analysis Code: Group_Project.R - Complete statistical analysis code
+
+**Three-Part Analysis:**
+
+**1. Snowfall Prediction (Simple & Multiple Regression)**
+- Binary snow indicator creation and exploratory analysis (histograms, boxplots, scatterplots)
+- Simple linear regression: snow ~ tempmin (β = -0.0085, p < 0.001, R² = 0.02)
+- Multi-variable models testing 2 and 3 predictor combinations
+- Interaction models: best performance with temp × humidity + temp × cloudcover (Adj R² = 5.5%)
+- Confidence and prediction intervals for temperature-based forecasting
+
+**2. Precipitation Classification (Logistic Regression)**
+- Binary rain classification with 80/20 train-test split
+- Model comparison: baseline (humidity only) to full specification
+- Best model (Model D): humidity, pressure, cloudcover, windspeed, dew point
+- Results: 80.87% test accuracy, identified humidity (OR = 1.11) and pressure (OR = 0.91) as strongest predictors
+
+**3. Weather Pattern Classification (Clustering + Decision Trees)**
+- K-means clustering (k=4) identified distinct weather patterns: clear-cold, partly-cloudy, heavy rain, light rain
+- Cluster 3 achieved 97.7% rain detection precision
+- Decision tree comparison: original variables (96.89% accuracy) vs. cluster features (86.35% accuracy)
+- Finding: clustering captured patterns but didn't improve prediction when raw variables
+
+---
+
 ## Dataset Augmentation for Skin of Color Diagnostics
 **Source:** Barger Leadership Institute Research Project  
 **Technical Stack:** Python, Machine Learning, Computer Vision, ResNet, Dataset Curation
