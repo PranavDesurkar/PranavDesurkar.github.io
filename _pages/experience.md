@@ -149,9 +149,6 @@ I collaborated with internal business clients in an Agile environment to impleme
 
 **Technical Stack:** C#, SQL Server Manager, Agile
 
-**Work Samples:**
--
-
 **Key Skills:** #object-oriented-programming #database-design #project-management #healthcare-equity
 
 </details>
